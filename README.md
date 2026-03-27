@@ -1,5 +1,5 @@
 # Eye-Tracking-INCOMPLETE-  
-First of all this is INCOMPLATE as of now.  
+First of all this is INCOMPLETE as of now.  
 # What is The Purpose?  
 -This projects tracks its user data and then outputs the result in a video format and json format.  
 -This project is made in order to make up for some shortcomings  
@@ -13,5 +13,5 @@ First of all this is INCOMPLATE as of now.
 -When the calibration screen closes you are free to do whatever. When you press q in the recording tab the program will close.  
 # Important  
 -This program is made to be run on a macbook m4 pro 14''. as of now if your processor can not handle it or your screen size is different the program will not work as intended to  
--The eye tracking process as of now is incomplate. even if you do the processess above while having correct equipment the eye tracking will not be accurate and lazy.  
+-The eye tracking process as of now is incomplete. even if you do the processess above while having correct equipment the eye tracking will not be accurate and lazy.  
  
